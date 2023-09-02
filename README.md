@@ -11,7 +11,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Casmart - eCommerce website</h2>
+  <h2 align="center">EverLeaf- Where Nature Comes Home.</h2>
 
   Casmart is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
