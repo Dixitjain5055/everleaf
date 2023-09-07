@@ -716,7 +716,7 @@ h3 > a { color: inherit; }
 \*-----------------------------------*/
 
 .footer-top {
-  background: var(--cultured);
+  background: var(--green);
   padding-block: var(--section-padding);
 }
 
