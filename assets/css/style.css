@@ -27,7 +27,7 @@
   --candy-pink: hsl(356, 65%, 63%);
   --cultured: hsl(0, 0%, 96%);
   --white: hsl(0, 0%, 100%);
-  --black: hsl(0, 0%, 0%);
+  --black: hsl(0, 9%, 6%);
 
   /**
    * typography
@@ -229,7 +229,7 @@ h3 > a { color: inherit; }
   position: absolute;
   top: 0;
   left: 0;
-  background: var(--white);
+  background: hsl(0, 0%, 0%);
   width: 100%;
   padding-block: 20px;
   z-index: 4;
@@ -296,7 +296,7 @@ h3 > a { color: inherit; }
 }
 
 .header-action-label {
-  color: var(--sonic-silver);
+  color: hsl(0deg 0% 99.44%);
   font-size: var(--fs-10);
   transition: var(--transition-1);
 }
@@ -370,6 +370,7 @@ h3 > a { color: inherit; }
   opacity: 0.7;
   pointer-events: all;
 }
+
 
 
 
