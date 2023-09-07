@@ -304,7 +304,7 @@ padding: 2px 5px;; }
     transition: var(--transition-1);
   }
   
-  .header-action-btn:is(:hover, :focus) .header-action-label { color: var(--eerie-black); }
+  .header-action-btn:is(:hover, :focus) .header-action-label { color: var(--middle-blue-green); }
   
   .header-action-btn .btn-badge {
     position: absolute;
